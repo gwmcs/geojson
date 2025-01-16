@@ -1,9 +1,10 @@
 {
     "type": "FeatureCollection",
+    "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::27700" } },
     "features": [
         {
             "type": "Feature",
-            "properties": { "CTYUA23NM":"Jersey" },
+            "properties": {"CTYUA23NM": "Jersey" },
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
