@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "properties": {"CTYUA23CD":"/J00000001","CTYUA23NM":"Jersey","CTYUA23NMW":" ","BNG_E":000000,"BNG_N":000000,"LONG":" ","LAT":" ","GlobalID":" "},"id":1001},
+            "properties": {"CTYUA23CD":"J00000001","CTYUA23NM":"Jersey","CTYUA23NMW":" ","BNG_E":000000,"BNG_N":000000,"LONG":" ","LAT":" ","GlobalID":" "},"id":1001},
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
